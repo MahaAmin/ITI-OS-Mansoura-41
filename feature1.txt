@@ -9,3 +9,6 @@ Implementing feature2
 more code in feature 2
 delete line and create new line
 another code ..
+
+working on newBranch
+another commit in newBranch
