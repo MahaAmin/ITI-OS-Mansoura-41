@@ -9,3 +9,4 @@ Implementing feature2
 more code in feature 2
 
 working on newBranch
+another commit in newBranch
