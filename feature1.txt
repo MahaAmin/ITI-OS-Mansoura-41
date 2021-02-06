@@ -7,3 +7,5 @@ commit 2 after merge
 
 Implementing feature2
 more code in feature 2
+delete line and create new line
+another code ..
