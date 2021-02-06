@@ -1,3 +1,6 @@
 Implementing feature 1 code....
 more code ..
 another code ..
+
+commit 1 after merge
+commit 2 after merge
