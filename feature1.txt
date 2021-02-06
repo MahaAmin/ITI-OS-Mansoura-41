@@ -6,3 +6,4 @@ commit 1 after merge
 commit 2 after merge
 
 Implementing feature2
+more code in feature 2
